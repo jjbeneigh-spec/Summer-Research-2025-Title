@@ -2,7 +2,7 @@
 
 This repository is for my Undergraduate Research at the Office of Institutional Research and Analytics at Bucknell University. I worked on two different projects during this time; building predictive models to better understand the reasons behind student enrollment decisions and leveraging generative AI to enhance qualitative surveying research. 
 
-## Note: Source code for this project is omitted due to a Non-Disclosure Agreement (NDA). This repository serves as a portfolio for the project's methodology and findings via research posters. Also some of the information in the MyVoice Survey Poster is hidden due to confidentiality.
+Note: Source code for this project is omitted due to a Non-Disclosure Agreement (NDA). This repository serves as a portfolio for the project's methodology and findings via research posters. Also some of the information in the MyVoice Survey Poster is hidden due to confidentiality.
 
 ## Project 1: 
 
